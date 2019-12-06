@@ -1,0 +1,20 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle":"custom",
+				 "app-plus":{
+					 "titleNView":false,
+					 "scrollIndicator":"none" //影藏滚动条					 
+				 }
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "共享广告机",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
